@@ -1,0 +1,73 @@
+﻿<Properties StartupConfiguration="{523F81D7-5EE4-4961-A47D-E3009E8BB73B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Project3.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Pixel_3a_API_33_x86_64" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.0" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_33_x86_64" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/jusajan/Library/Caches/VisualStudio/17.0/Symbols/raw.githubusercontent.com/mono/mono/6dd9def57ce969ca04a0ecd9ef72c0a8f069112d</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project3/Pages/MyGamePage.xaml.cs">
+    <Files>
+      <File FileName="../../../../Library/Caches/VisualStudio/17.0/Symbols/raw.githubusercontent.com/mono/mono/6dd9def57ce969ca04a0ecd9ef72c0a8f069112d/mcs/class/referencesource/mscorlib/system/runtime/exceptionservices/exceptionservicescommon.cs" Line="157" Column="1" IsPinned="True" />
+      <File FileName="Project3/Pages/MyGamePage.xaml.cs" Line="492" Column="40" />
+      <File FileName="Project3/Pages/MenuListPage.xaml" />
+      <File FileName="Project3/App.xaml" />
+      <File FileName="Project3/App.xaml.cs" />
+      <File FileName="Project3/Pages/MenuListPage.xaml.cs" />
+      <File FileName="Project3.Android/MainActivity.cs" />
+      <File FileName="Project3/PageModels/MenuListPageModel.cs" />
+      <File FileName="Project3/PageModels/MyGamePageModel.cs" />
+      <File FileName="Project3/MainPage.xaml.cs" />
+      <File FileName="Project3/MainPage.xaml" />
+      <File FileName="Project3/Pages/MyGamePage.xaml" />
+      <File FileName="Project3/Pages/Box.cs" />
+      <File FileName="Project3.iOS/Main.cs" />
+      <File FileName="Project3.Android/Resources/Resource.designer.cs" />
+      <File FileName="Project3/PageModels/MenuPageModel.cs" />
+      <File FileName="Project3/Pages/MenuPage.xaml" />
+      <File FileName="Project3/Pages/ButtonView.xaml" />
+      <File FileName="Project3/Pages/MyBalls.xaml" />
+      <File FileName="Project3/Pages/MyBalls.xaml.cs" />
+      <File FileName="Project3/Pages/ButtonView.xaml.cs" />
+      <File FileName="Project3/DataModels/MenuDataModel.cs" />
+      <File FileName="../../../../.nuget/packages/xamarin.forms/5.0.0.2578/buildTransitive/Xamarin.Forms.targets" />
+      <File FileName="Project3/PageModels/AvatharPageModel.cs" />
+      <File FileName="Project3/PageModels/CreditsPageModel.cs" />
+      <File FileName="Project3/PageModels/SampleViewCell.cs" />
+      <File FileName="Project3/Styles/ChosedStyles0.css" />
+      <File FileName="Project3/Styles/ChosedStyles1.css" />
+      <File FileName="Project3/Styles/ChosedStyles2.css" />
+      <File FileName="Project3/Styles/ChosedStyles3.css" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project3" expanded="True">
+            <Node name="Project3" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="DataModels" expanded="True" />
+              <Node name="PageModels" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="ButtonView.xaml" expanded="True" />
+                <Node name="MenuListPage.xaml" expanded="True" />
+                <Node name="MyBalls.xaml" expanded="True" />
+                <Node name="MyGamePage.xaml" expanded="True" />
+              </Node>
+              <Node name="Styles" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Project3.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
